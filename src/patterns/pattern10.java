@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class pattern10 {
 	
 	/*
-	 * 
+	 *  
 						n=6
 						*******   *******
 						******     ******
@@ -34,6 +34,14 @@ public class pattern10 {
 						***           ***
 						****         ****
 						*****       *****
+						
+						n=2
+						***           ***
+						**             **
+						*               *
+						*               *
+						**             **
+						***           ***
 						
 	 * 
 	 * 
