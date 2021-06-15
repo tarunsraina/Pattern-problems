@@ -6,7 +6,7 @@ public class pattern8 {
 	
 	/*
 	 * 
-	 * 
+	 *               Left arrow
 	 * 
 						 n= 6
 					      *
@@ -22,6 +22,26 @@ public class pattern8 {
 					    *
 					     *
 					      *
+					      
+					      
+					            n=8
+						        *
+						       *
+						      *
+						     *
+						    *
+						   *
+						  *
+						 *
+						** * * * * * * * 
+						 *
+						  *
+						   *
+						    *
+						     *
+						      *
+						       *
+						        *
 
 	 * 
 	 * 
