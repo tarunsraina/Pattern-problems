@@ -102,6 +102,7 @@ public class pattern10 {
 			case 1:string="             ";
 			break;
 			default:string="               ";
+			break;
 		}
 		return string;
 	}
